@@ -1,0 +1,11 @@
+{
+    "dataset": "Brazil_Election_2018",
+    "meshblock":"meshblocks.shp",
+    "meshblock_id": "code_muni",
+    "index_col": "INDEX",
+    "fold_col": "INDEX_FOLDS",
+    "target_col": "TARGET",
+    "fs_method": "CFS",
+    "ml_methods": ["KNN", "OLS", "Lasso", "Ridge", "ElasticNet", "DT", "LGBM", "RF", "MLP", "SVM"],
+    "cols_remove": ["[GEO]_LATITUDE", "[GEO]_LONGITUDE"]
+}

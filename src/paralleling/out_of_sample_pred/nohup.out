@@ -1,0 +1,82 @@
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/sklearn/linear_model/_coordinate_descent.py:647: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 5.141e+02, tolerance: 5.544e+00
+  model = cd_fast.enet_coordinate_descent(
+/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/sklearn/linear_model/_coordinate_descent.py:647: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 5.141e+02, tolerance: 5.544e+00
+  model = cd_fast.enet_coordinate_descent(
+time -- -0.0001143464833333332
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+DEBUG:weka.core.jvm:Adding bundled jars
+DEBUG:weka.core.jvm:Classpath=['/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/rhino-1.7R4.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/runnablequeue.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/javabridge/jars/cpython.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/python-weka-wrapper.jar', '/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/weka/lib/weka.jar']
+DEBUG:weka.core.jvm:MaxHeapSize=default
+DEBUG:weka.core.jvm:Package support disabled
+/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/sklearn/linear_model/_coordinate_descent.py:647: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 5.141e+02, tolerance: 5.544e+00
+  model = cd_fast.enet_coordinate_descent(
+/home/tpinho/miniconda3/envs/RegGBSCV/lib/python3.9/site-packages/sklearn/linear_model/_coordinate_descent.py:647: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 5.141e+02, tolerance: 5.544e+00
+  model = cd_fast.enet_coordinate_descent(
+time -- -0.00012157886666666664

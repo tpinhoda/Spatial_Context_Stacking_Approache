@@ -1,0 +1,10 @@
+echo CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.1 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.2 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.3 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.4 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.5 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.6 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.7 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.8 CrossValidation
+python run_subprocess.py Brazil_Election_2018_Sampled_dec0.3_prob0.9 CrossValidation

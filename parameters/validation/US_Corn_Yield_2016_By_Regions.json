@@ -1,0 +1,11 @@
+{
+    "dataset": "US_Corn_Yield_2016_By_Regions",
+    "meshblock":"cb_2016_us_county_500k.shp",
+    "meshblock_id": "GEOID",
+    "index_col": "INDEX",
+    "fold_col": "INDEX_FOLDS",
+    "target_col": "TARGET",
+    "fs_method": "All",
+    "ml_methods": ["KNN", "OLS", "Lasso", "Ridge", "ElasticNet", "DT", "LGBM", "RF", "MLP", "SVM"],
+    "cols_remove": []
+}
